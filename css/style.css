@@ -1,0 +1,19 @@
+h3{
+	color: blueviolet;
+}
+.header, .hero, .body, .bar, .footer{
+	background-color: skyblue;
+}
+.box{
+	min-height: 80px;
+	background-color: rosybrown;
+	margin:10px 0;
+	font-size: 30px;
+	color: blue;
+}
+.red{
+	background-color: hotpink;
+}
+.five{
+	background-color: purple;
+}
